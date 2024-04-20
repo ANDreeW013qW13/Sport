@@ -1,0 +1,49 @@
+body {
+    background: linear-gradient(#0000005b, #0000005b), url("../images/back.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    margin: 0 50px 0 50px;
+}
+a {
+    color: white;
+}
+video {
+    float: left;
+    height: 75px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+.a {
+    margin-bottom: 20px;
+}
+iframe {
+    display: block;
+    margin: auto;
+}
+audio {
+    float: right;
+    right: 0;
+    top: 0;
+    height: 40px;
+}
+.b {
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 20px;
+    text-align: justify;
+    margin: 20px 0;
+}
+h4 {
+    margin: 20px 0 20px 0;
+}
+h2 {
+    width: max-content;
+    background-color: rgba(0, 0, 0, 0.75);
+    padding: 0 100px;
+    margin: auto;
+}
+.harta {
+    margin: 20px 0;
+    width: 100%;
+}
